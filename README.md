@@ -1,1 +1,1 @@
-# GLEAMone
+# Cow Fart rule
