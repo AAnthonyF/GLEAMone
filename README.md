@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cow patties rule
 Scrum Masters drool
 Week 1: Letty
@@ -6,3 +7,8 @@ Week 3: Katie
 Week 4: Anthony
 Week 5: Everyone - Possible Tableau
 Week 6: PRESENT!!
+=======
+# GLEAMone
+
+git config --global pull.ff true
+>>>>>>> 9e8bcc6 (Update README.md)
