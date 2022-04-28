@@ -1,1 +1,1 @@
-# Cow Fart rule
+# Cow patties rule
