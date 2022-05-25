@@ -1,11 +1,11 @@
 
 # Cow patties rule
-Scrum Masters drool
-Week 1: Letty
+Scrum Masters Drool
+Week 1: LetyCodez
 Week 2: Massaran
 Week 3: Katie
 Week 4: Anthony
-Week 5: Everyone - Possible Tableau
+Week 5: Everyone : Possible Tableau, Google Doc Slides
 Week 6: PRESENT!!
 =======
 # GLEAMone
@@ -22,3 +22,6 @@ Created a new heat map in Jupyter Notebook
 ANOVA for animal species we can do with gas types
 As for the heat map, any of the variables that are highly correlated (either positively or negatively) - we can make a scatter plot
 If we can get all of this accomplished, we can try a regression model on the most dangerous gases
+# Notes 5/24/2022
+Great work in R Anthony!!! 
+Katie , lets get some more of the Tableau in there for visuals
