@@ -25,3 +25,5 @@ If we can get all of this accomplished, we can try a regression model on the mos
 # Notes 5/24/2022
 Great work in R Anthony!!! 
 Katie , lets get some more of the Tableau in there for visuals
+### PRESENTATION VIDEO LINK BELOW
+https://vimeo.com/715186922
